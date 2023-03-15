@@ -4,13 +4,11 @@
 
 I'm RECHERGG, a developer and content creator. I am proficient in Java and work in both frontend and backend development. I mainly program in Python and my areas of expertise include web development, data science, and machine learning. You can find me on [YouTube](https://www.youtube.com/c/RECHERGG) and [GitHub](https://github.com/rechergg).
 
-## Statistik
-
 <div style="display: flex; flex-wrap: wrap;">
   <div style="width: 50%;">
     <h2>Youtube-Statistik</h2>
-    <a href="https://www.youtube.com/channel/DEIN_YOUTUBE_CHANNEL_ID">
-      <img src="https://youtube-stats-card.vercel.app/api?channelid=DEIN_YOUTUBE_CHANNEL_ID&layout=extruded&theme=radical" alt="Youtube-Statistik-Karte">
+    <a href="https://www.youtube.com/channel/UCk017SA5PcXeyKoVmX8tuRg">
+      <img src="https://youtube-stats-card.vercel.app/api?channelid=UCk017SA5PcXeyKoVmX8tuRg&layout=extruded&theme=radical" alt="Youtube-Statistik-Karte">
     </a>
   </div>
   <div style="width: 50%;">
