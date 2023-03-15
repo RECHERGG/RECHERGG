@@ -1,7 +1,7 @@
 # ![](https://cdn.discordapp.com/emojis/1021121065990234263.webp?size=96&quality=lossless) **RECHERGG**
 
 <p align="center">
-      <a href="https://www.youtube.com/channel/UCk017SA5PcXeyKoVmX8tuRg">Youtube</a>
+      <a href="https://www.youtube.com/channel/UCk017SA5PcXeyKoVmX8tuRg"><b>Youtube</a>
 </p>
 
 
