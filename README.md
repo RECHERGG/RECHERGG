@@ -1,8 +1,6 @@
- # ![ ](https://cdn.discordapp.com/emojis/714536344751177768.gif?size=96&quality=lossless) RECHERGG
+ # ![ ](https://cdn.discordapp.com/emojis/714536344751177768.gif?size=96&quality=lossless  | width=50) RECHERGG
  
  <p align="center">
-    Youtube stats badges for your Github profile README
-    <br />
     <br />
     <a href="https://www.youtube.com/channel/UCk017SA5PcXeyKoVmX8tuRg?sub_confirmation=1">
       <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="[https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630](https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCk017SA5PcXeyKoVmX8tuRg&key=AIzaSyDtU9WEcnMNliQoHcOSmDAue7AVm3p86NA)"/></a> 
