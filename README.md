@@ -8,7 +8,7 @@ I'm RECHERGG, a developer and content creator. I am proficient in Java and work 
   <div style="width: 50%;">
     <h2>Youtube-Statistik</h2>
     <a href="https://www.youtube.com/channel/UCk017SA5PcXeyKoVmX8tuRg">
-      <img src="https://youtube-stats-card.vercel.app/api?channelid=UCk017SA5PcXeyKoVmX8tuRg&layout=extruded&theme=radical" alt="Youtube-Statistik-Karte">
+      <img src="https://youtube-stats-card.vercel.app/api?channelid=UCk017SA5PcXeyKoVmX8tuRg&layout=extruded&theme=dark" alt="Youtube-Statistik-Karte">
     </a>
   </div>
   <div style="width: 50%;">
