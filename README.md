@@ -3,4 +3,5 @@
 ### [Youtube](https://www.youtube.com/channel/UCk017SA5PcXeyKoVmX8tuRg)
 ![](https://youtube-stats-card.vercel.app/api?channelid=UCk017SA5PcXeyKoVmX8tuRg&layout=extruded&theme=radical)]
 
-![📈 Stats](https://github-readme-stats.vercel.app/api?username=rechergg&show_icons=true&theme=radical)
+### 📈 Stats
+![](https://github-readme-stats.vercel.app/api?username=rechergg&show_icons=true&theme=radical)
