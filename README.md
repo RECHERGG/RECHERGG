@@ -6,14 +6,18 @@ I'm RECHERGG, a developer and content creator. I am proficient in Java and work 
 
 ## Statistik
 
-<p align="center">
-  <a href="https://www.youtube.com/c/RECHERGG" style="display: inline-block; margin-right: 20px;">
-    <img src="https://youtube-stats-card.vercel.app/api?channelid=UCk017SA5PcXeyKoVmX8tuRg&layout=extruded&theme=radical" alt="Youtube-Statistik-Karte" />
-  </a>
-  <a href="https://github.com/rechergg" style="display: inline-block; margin-left: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=rechergg&show_icons=true&theme=radical" alt="Github-Statistik-Karte" />
-  </a>
-</p>
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="width: 50%;">
+    <h2>Youtube-Statistik</h2>
+    <a href="https://www.youtube.com/channel/DEIN_YOUTUBE_CHANNEL_ID">
+      <img src="https://youtube-stats-card.vercel.app/api?channelid=DEIN_YOUTUBE_CHANNEL_ID&layout=extruded&theme=radical" alt="Youtube-Statistik-Karte">
+    </a>
+  </div>
+  <div style="width: 50%;">
+    <h2>Github-Statistik</h2>
+    <img src="https://github-readme-stats.vercel.app/api?username=rechergg&show_icons=true&theme=radical" alt="Github-Statistik-Karte">
+  </div>
+</div>
 
 ## Über mich
 
