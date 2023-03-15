@@ -1,7 +1,8 @@
 # ![](https://cdn.discordapp.com/emojis/1021121065990234263.webp?size=96&quality=lossless) **RECHERGG**
-  
+---
+
 ### [Youtube](https://www.youtube.com/channel/UCk017SA5PcXeyKoVmX8tuRg)
-![](https://youtube-stats-card.vercel.app/api?channelid=UCk017SA5PcXeyKoVmX8tuRg&layout=extruded&theme=radical)]
+![](https://youtube-stats-card.vercel.app/api?channelid=UCk017SA5PcXeyKoVmX8tuRg&layout=extruded&theme=radical)
 
 ---
 
