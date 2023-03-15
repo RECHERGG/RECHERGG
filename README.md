@@ -13,7 +13,7 @@ I'm RECHERGG, a developer and content creator. I am proficient in Java and work 
   </div>
   <div style="width: 50%;">
     <h2>Github-Statistik</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=rechergg&show_icons=true&theme=radical" alt="Github-Statistik-Karte">
+    <img src="https://github-readme-stats.vercel.app/api?username=rechergg&show_icons=true&theme=dark" alt="Github-Statistik-Karte">
   </div>
 </div>
 
