@@ -19,7 +19,7 @@ I'm RECHERGG, a developer and content creator. I am proficient in Java and work 
 
 ## Über mich
 
-- 🔭 Ich arbeite derzeit bei BluePearlCasino als Webentwickler.
+- 🔭 Ich arbeite derzeit bei BluePearlCasino als Entwickler.
 - 🌱 Ich liebe es, neue Dinge zu lernen und mein Wissen zu erweitern.
 - 👯 Ich bin immer offen für Zusammenarbeit an spannenden Projekten.
 - 💬 Sie können mich auf [Discord](https://bluepearlcasino.de/discord) erreichen.
