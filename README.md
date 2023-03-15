@@ -4,7 +4,7 @@
   <div style="width: 50%;">
     <h2>Youtube-Statistik</h2>
     <a href="https://www.youtube.com/channel/UCk017SA5PcXeyKoVmX8tuRg">
-      <iframe src="https://youtube-stats-card.vercel.app/api?channelid=UCk017SA5PcXeyKoVmX8tuRg&layout=extruded&theme=radical" frameborder="0" style="width: 100%;"></iframe>
+      <img src="https://youtube-stats-card.vercel.app/api?channelid=UCk017SA5PcXeyKoVmX8tuRg&layout=extruded&theme=radical" alt="Youtube-Statistik-Karte">
     </a>
   </div>
   <div style="width: 50%;">
