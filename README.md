@@ -2,7 +2,7 @@
 
 # Hi there! 👋
 
-I'm RECHERGG, a developer and content creator. I am proficient in Java and work in both frontend and backend development. I mainly program in Java and my areas of expertise include Minecraft development, data science, and machine learning. You can find me on [YouTube](https://www.youtube.com/c/RECHERGG) and [GitHub](https://github.com/rechergg).
+I'm RECHERGG, a developer and content creator. I am proficient in Java and work in both frontend and backend development. I mainly program in Java and my areas of expertise include Minecraft development, data science, and machine learning. You can find me on [YouTube](https://youtube.com/@RECHERGG) and [GitHub](https://github.com/rechergg).
 
 <div style="display: flex; flex-wrap: wrap;">
   <div style="width: 50%;">
