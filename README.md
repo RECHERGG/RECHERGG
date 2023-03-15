@@ -32,6 +32,6 @@ Hier sind einige der Technologien und Tools, mit denen ich arbeite:
 - Docker
 - ... und mehr!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rechergg&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rechergg&layout=compact&theme=dark)
 
 Ich freue mich darauf, von Ihnen zu hören und neue, aufregende Projekte zu erkunden! 😄
