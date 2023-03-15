@@ -9,6 +9,6 @@
   </div>
   <div style="width: 50%;">
     <h2>Github-Statistik</h2>
-    <iframe src="https://github-readme-stats.vercel.app/api?username=rechergg&show_icons=true&theme=radical" frameborder="0" style="width: 100%;"></iframe>
+    <img src="https://github-readme-stats.vercel.app/api?username=rechergg&show_icons=true&theme=radical" alt="Github-Statistik-Karte">
   </div>
 </div>
