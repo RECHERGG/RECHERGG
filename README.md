@@ -24,7 +24,7 @@ I'm RECHERGG, a developer and content creator. I am proficient in Java and work 
 - 👯 Ich bin immer offen für Zusammenarbeit an spannenden Projekten.
 - 💬 Sie können mich auf [Discord](https://bluepearlcasino.de/discord) erreichen.
 
-## Technologien
+## Tools
 
 Hier sind einige der Technologien und Tools, mit denen ich arbeite:
 
@@ -35,5 +35,3 @@ Hier sind einige der Technologien und Tools, mit denen ich arbeite:
 - ... und mehr!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rechergg&layout=compact&theme=dark)
-
-Ich freue mich darauf, von Ihnen zu hören und neue, aufregende Projekte zu erkunden! 😄
