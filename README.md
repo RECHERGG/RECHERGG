@@ -2,7 +2,7 @@
 
 # Hi there! 👋
 
-I'm RECHERGG, a developer and content creator. I am proficient in Java and work in both frontend and backend development. I mainly program in Java and my areas of expertise include Minecraft development, data science, and machine learning. You can find me on [YouTube](https://youtube.com/@RECHERGG) and [GitHub](https://github.com/rechergg).
+I'm RECHERGG, a Fullstack Developer with a strong focus on backend development. Proficient in Java, my expertise spans areas such as Minecraft and backend systems. You can find me on [YouTube](https://youtube.com/@RECHERGG) and [GitHub](https://github.com/rechergg).
 
 <a href="https://www.github.com/RECHERGG" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/RECHERGG?logo=github&style=for-the-badge&color=22c55e&labelColor=1c1917" /></a><a href="https://www.twitch.tv/rechergg" target="_blank" rel="noreferrer"><img
