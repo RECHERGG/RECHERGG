@@ -18,18 +18,7 @@ src="https://img.shields.io/twitch/status/rechergg?logo=twitchsx&style=for-the-b
 ### Socials
 
 <p align="left">
-  <a href="https://discord.com/users/697131095015293009" target="_blank" rel="noreferrer" style="outline: none;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
-  </a>
-  <a href="https://www.github.com/RECHERGG" target="_blank" rel="noreferrer" style="outline: none;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-  </a>
-  <a href="https://www.youtube.com/@rechergg" target="_blank" rel="noreferrer" style="outline: none;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
-  </a>
-  <a href="https://www.twitch.tv/rechergg" target="_blank" rel="noreferrer" style="outline: none;">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" />
-  </a>
+<a href="https://discord.com/users/697131095015293009" target="_blank" rel="noreferrer" style="outline: none;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a><a href="https://www.github.com/RECHERGG" target="_blank" rel="noreferrer" style="outline: none;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a><a href="https://www.youtube.com/@rechergg" target="_blank" rel="noreferrer" style="outline: none;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a><a href="https://www.twitch.tv/rechergg" target="_blank" rel="noreferrer" style="outline: none;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
 </p>
 
 <div style="display: flex; flex-wrap: wrap;">
