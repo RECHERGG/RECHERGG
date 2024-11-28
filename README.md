@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm RECHERGG, a Fullstack Developer with a strong focus on backend development.
+I'm RECHERGG, a Fullstack Developer with a strong focus on backend development.</br>
 You can learn more about me on my website.
 
 <a href="https://www.github.com/RECHERGG" target="_blank" rel="noreferrer"><img
