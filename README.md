@@ -21,5 +21,6 @@ src="https://img.shields.io/github/followers/RECHERGG?logo=github&style=for-the-
 <div style="display: flex; flex-wrap: wrap;">
     <h2>Github-Statistik</h2>
     <img src="https://github-readme-stats.vercel.app/api?username=rechergg&show_icons=true&theme=dark" alt="Github-Statistik-Karte">
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rechergg&layout=compact&theme=dark)
 </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rechergg&layout=compact&theme=dark)
