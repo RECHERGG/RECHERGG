@@ -1,6 +1,7 @@
 # Hi there! 👋
 
 I'm RECHERGG, a Fullstack Developer with a strong focus on backend development.
+You can learn more about me on my website.
 
 <a href="https://www.github.com/RECHERGG" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/RECHERGG?logo=github&style=for-the-badge&color=22c55e&labelColor=1c1917" /></a><a href="https://www.twitch.tv/rechergg" target="_blank" rel="noreferrer">
