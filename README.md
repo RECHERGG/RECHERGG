@@ -1,21 +1,13 @@
-# Hi there! 👋
-
-I'm RECHERGG, a Fullstack Developer with a strong focus on backend development.</br>
-You can learn more about me on my website.
-
-<a href="https://www.github.com/RECHERGG" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/RECHERGG?logo=github&style=for-the-badge&color=22c55e&labelColor=1c1917" /></a>
-<a href="https://www.github.com/RECHERGG" target="_blank" rel="noreferrer"><img
-src="https://komarev.com/ghpvc/?username=RECHERGG&color=brightgreen" /></a>
-
-### Skills
-
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=rechergg&show_icons=true&count_private=true&theme=blueberry-duo&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=rechergg&layout=compact&hide_border=true&theme=blueberry-duo&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=rechergg&theme=blueberry-duo&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+  <a href="https://jtobaben.me"> <img align="center" src="./assets/portfolio.svg" height="50" width="210" alt="aveek.saha" /></a>
 </p>
 
-<div style="display: flex; flex-wrap: wrap;">
-    <h2>Github-Statistik</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=rechergg&show_icons=true&theme=dark" alt="Github-Statistik-Karte">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rechergg&layout=compact&theme=dark" alt="Top Langs">
-</div>
+<!-- <p align="center">
+  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=rechergg&repo=polocloud">
+  <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=rechergg&repo=portfolio">
+</p> -->
