@@ -4,7 +4,7 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=rechergg&theme=blueberry-duo&hide_border=true&background=FFFFFF00">
   <br>
   <br>
-  <a href="https://jtobaben.me"> <img align="center" src="./assets/portfolio.svg" height="50" width="210" alt="aveek.saha" /></a>
+  <a href="https://jtobaben.me" target="_blank"> <img align="center" src="./assets/portfolio.svg" height="50" width="210" alt="aveek.saha" /></a>
 </p>
 
 <!-- <p align="center">
