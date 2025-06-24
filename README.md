@@ -7,11 +7,6 @@
   <a href="https://jtobaben.me"> <img align="center" src="./assets/portfolio.svg" height="50" width="210" alt="aveek.saha" /></a>
 </p>
 
-
-<!-- old
-<img src ="https://github-readme-streak-stats.herokuapp.com?user=rechergg&theme=blueberry-duo&hide_border=true&background=FFFFFF00">
--->
-
 <!-- <p align="center">
   <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=rechergg&repo=polocloud">
   <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=rechergg&repo=portfolio">
