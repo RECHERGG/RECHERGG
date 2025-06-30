@@ -6,8 +6,3 @@
   <br>
   <a href="https://jtobaben.me"> <img align="center" src="./assets/portfolio.svg" height="50" width="210" alt="aveek.saha" /></a>
 </p>
-
-<!-- <p align="center">
-  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=rechergg&repo=polocloud">
-  <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=rechergg&repo=portfolio">
-</p> -->
