@@ -1,5 +1,3 @@
-# Learn more about me and my work
-
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats-three-phi-56.vercel.app/api?username=rechergg&show_icons=true&count_private=true&theme=github_dark&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats-three-phi-56.vercel.app/api/top-langs/?username=rechergg&layout=compact&hide_border=true&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
